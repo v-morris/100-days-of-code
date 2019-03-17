@@ -10,3 +10,10 @@
 **Sources:**  React - The Complete Guide - Maximilian Schwarzmuller's Udemy Course
 
 
+### Day 2: March 16, 2019 
+
+**Today's Progress**: Continued through tutorial and learned about npm run eject to add CSS Modules to React App. CSS modules allowed you to scope css files to specific JS files. You can also add pseudo classes and media queries this way. I also started a layout for a React Calculator. Basic layout is done but no functionality yet.
+
+**Thoughts:** CSS modules seems useful but I want to do more research into what is possible with ejecting the React app. I also saw in the warnings that CSS modules are possible without ejecting the app, so I want to do more research into that as well.
+
+**Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
