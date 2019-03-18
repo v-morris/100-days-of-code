@@ -17,3 +17,12 @@
 **Thoughts:** CSS modules seems useful but I want to do more research into what is possible with ejecting the React app. I also saw in the warnings that CSS modules are possible without ejecting the app, so I want to do more research into that as well.
 
 **Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
+
+
+### Day 3: March 17, 2019 & Day 4: March 18, 2019
+
+**Today's Progress**: Didn't have a chance to update this yesterday but I did watch some of Andrea Neagoie's JavaScript tutorial on Udemy. Also watched a full tutorial on React Calculator to help my thought process while building. Made more progress on my own without having to go back and rewatch tutorial. Had to do a little research of my own though outside of it.
+
+**Thoughts:** The tutorial I watched for the calculator really helped my entire thought process and will help me with future React apps as well. I've learned several smaller concepts involving state and what I should be thinking when I need to update it.
+
+**Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
