@@ -26,3 +26,11 @@
 **Thoughts:** The tutorial I watched for the calculator really helped my entire thought process and will help me with future React apps as well. I've learned several smaller concepts involving state and what I should be thinking when I need to update it.
 
 **Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
+
+### Day 5: March 19, 2019 & Day 6: March 20, 2019
+
+**Today's Progress**: Really need to remember to update this! Had apartment issues the 19th so got to only do a little work on the calculator. Today (20th) I completed the calculator and put in the functions. I did need some assistance from a tutorial, but I learned the easiest way to do the functions in React. I also added in if statements to make sure the display does not grow past its width limits, and turns to exponents if the value is too large.
+
+**Thoughts:** The calculator functions were challenging to me at first because I just did not know the best way to write it without adding in a bunch of if/else statements. The original way I was doing it was working, but I could not get it to update the display value accurately unless I clicked equals twice. The calculator taught me a lot as far as functions/calculations go and how to think about state throughout the developing process.
+
+**Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
