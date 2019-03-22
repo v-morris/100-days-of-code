@@ -35,7 +35,7 @@
 
 **Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
 
-### Day 5: March 21, 2019
+### Day 7: March 21, 2019
 
 **Today's Progress**: I spent a lot of the day applying to jobs, but I spent some time near the end working on some Ruby tutorials on Codecademy. I want to start building/practicing more with React/Rails applications, so I need a better base knowledge.
 
