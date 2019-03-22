@@ -34,3 +34,9 @@
 **Thoughts:** The calculator functions were challenging to me at first because I just did not know the best way to write it without adding in a bunch of if/else statements. The original way I was doing it was working, but I could not get it to update the display value accurately unless I clicked equals twice. The calculator taught me a lot as far as functions/calculations go and how to think about state throughout the developing process.
 
 **Link to work:** [React Calculator](https://github.com/v-morris/react-calculator)
+
+### Day 5: March 21, 2019
+
+**Today's Progress**: I spent a lot of the day applying to jobs, but I spent some time near the end working on some Ruby tutorials on Codecademy. I want to start building/practicing more with React/Rails applications, so I need a better base knowledge.
+
+**Thoughts:** I'm really looking forward to getting the basics with Ruby and Rails down because there is a project I want to revisit for a job I previously applied to. I've noticed a lot of places still use Rails so I think this skill will definitely be useful.
