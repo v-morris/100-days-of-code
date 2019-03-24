@@ -40,3 +40,15 @@
 **Today's Progress**: I spent a lot of the day applying to jobs, but I spent some time near the end working on some Ruby tutorials on Codecademy. I want to start building/practicing more with React/Rails applications, so I need a better base knowledge.
 
 **Thoughts:** I'm really looking forward to getting the basics with Ruby and Rails down because there is a project I want to revisit for a job I previously applied to. I've noticed a lot of places still use Rails so I think this skill will definitely be useful.
+
+### Day 8: March 22, 2019
+
+**Today's Progress**: I went through a ton of Codecademy's Ruby tutorials to fill in gaps in my knowledge.
+
+**Thoughts:** Ruby is very easy to pick up. Going through the tutorials, I really didn't know much off hand but everything with Ruby makes sense and flows with how I think. No surprises with what the code means so far, although I did stumble a bit with a loop I was practicing with it.
+
+### Day 9: March 23, 2019
+
+**Today's Progress**: I unfortunately had to spend most of my day resetting my computer because I bought an SSD and needed to reinstall everything. But I did some Ruby on Rails coding at the end and I'm going through a tutorial on how to make a basic React/Rails app using the react-rails gem. After I complete this I plan on revisiting a previous project.
+
+**Thoughts:** This is a lot easier the second time around and the tutorials I've been doing also helped significantly. I can see why Rails is still popular because it is so easy to get something up and running quickly.
