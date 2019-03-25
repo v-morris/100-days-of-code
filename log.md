@@ -52,3 +52,13 @@
 **Today's Progress**: I unfortunately had to spend most of my day resetting my computer because I bought an SSD and needed to reinstall everything. But I did some Ruby on Rails coding at the end and I'm going through a tutorial on how to make a basic React/Rails app using the react-rails gem. After I complete this I plan on revisiting a previous project.
 
 **Thoughts:** This is a lot easier the second time around and the tutorials I've been doing also helped significantly. I can see why Rails is still popular because it is so easy to get something up and running quickly.
+
+### Day 10: March 24, 2019
+
+**Today's Progress**: Made a quick HTML form and basic stying with CSS. Learned about the "focus" selector. I really want to expand on my CSS knowledge more. Feel like I have several gaps in my knowledge. Didn't have a ton of time today so I'm going to get back to the Ruby app tomorrow.
+
+**Thoughts:** 
+I really need to look at some web design/app designs for inspiration. Any time I go to style something on my own I end up not liking how it looks and I'm not sure why! I'm hoping that practicing CSS more with my applications will help with this, as I feel like I have a ton of ideas but I'm not always sure how to execute the design. More work with basic CSS is needed and I'm going to start putting more work into that too as I create my applications.
+
+**Link to work:** [Basic Form](https://github.com/v-morris/form-1)
+
