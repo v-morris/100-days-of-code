@@ -71,5 +71,6 @@ I really need to look at some web design/app designs for inspiration. Any time I
 Much easier time understanding than the first time I made the employee app for a job interview. Can't wait to go back and retry it. My React skills are definitely better and since I've gone through some Ruby tutorials, I'm grasping it much better as well. Tomorrow I will probably be able to start the employee application/database again.
 
 **Link to work:** https://github.com/v-morris/fruitsapp
+
 **Source:** https://medium.com/quick-code/simple-rails-crud-app-with-react-frontend-using-react-rails-gem-b708b89a9419
 
