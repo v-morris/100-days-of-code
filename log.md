@@ -74,3 +74,22 @@ Much easier time understanding than the first time I made the employee app for a
 
 **Source:** https://medium.com/quick-code/simple-rails-crud-app-with-react-frontend-using-react-rails-gem-b708b89a9419
 
+### Day 12: March 26, 2019
+
+**Today's Progress**: I finished the Fruits App tutorial and added the complete CRUD operations to it. I also started creating the employees database app again.
+
+**Thoughts:** 
+Not too many thoughts today other than I definitely feel like I am improving and I can for sure tell I understand React waaaay better than I did a month ago! When I go through these tutorials I feel like I don't retain anything at times, but then it all comes to me when I'm working on a project!
+
+**Link to work:** https://github.com/v-morris/fruitsapp
+
+**Source:** https://medium.com/quick-code/simple-rails-crud-app-with-react-frontend-using-react-rails-gem-b708b89a9419
+
+### Day 13: March 27, 2019
+
+**Today's Progress**: Created the front-end/back end of the employee database project with Rails/React. Generated a model in SQLite and seeded data into the table. I realized I messed up my table and labeled the columns incorrectly, so I actually got to learn how to drop a table in rails as well! I decided to try again through separate frontend and backend files instead of using the react-rails gem. I ran into some roadblocks along the way and some new errors I had not seen before, but Google assisted me! The app now fetches the data from my database and displays it. You can also add new employees. Tomorrow I will continue working on the edit and delete buttons. I would also like to add in a search feature.
+
+**Thoughts:** 
+I feel like my layout this time is much much much better than the first time I tried this. I have a stronger grasp on how React components work and how to implement CSS into it. Really it's crazy to me what a month of studying can do. I'm excited to continue building tomorrow!
+
+**Link to work:** https://github.com/v-morris/employee-db-redo
