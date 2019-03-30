@@ -93,3 +93,27 @@ Not too many thoughts today other than I definitely feel like I am improving and
 I feel like my layout this time is much much much better than the first time I tried this. I have a stronger grasp on how React components work and how to implement CSS into it. Really it's crazy to me what a month of studying can do. I'm excited to continue building tomorrow!
 
 **Link to work:** https://github.com/v-morris/employee-db-redo
+
+### Day 14: March 28, 2019
+
+**Today's Progress**: 
+-App now has complete CRUD functionality.
+-Made it so you cant delete the CEO, or Edit the CEO's manager ID.
+-Used .splice() to set the employee back to the original index in the array after edit.
+-Working on Search function!
+
+**Thoughts:** 
+I'm learning a lot throughout this process and trying to implement extra features such as not being able to edit the CEO. Next is the search function. Todays work seemed easy to me but I know it will become more difficult with the search function.
+
+**Link to work:** https://github.com/v-morris/employee-db-redo
+
+
+### Day 15: March 29, 2019
+
+**Today's Progress**: 
+Alright today was pretty hard for me! Had some time near end of night to try out the search functionality. Employees can be searched, but the CRUD functionality has broken along with it! I can see where my errors are and I need to look more into how to fix it tomorrow.
+
+**Thoughts:** 
+I did not realize the search function for this database would cause issues throughout the entire application. I had to make a completely separate else statement for the mapping of the employees. I'm trying to make some more if/else statements for the functions, but I just didn't realize how much of an issue this could potentially cause through my other functions. I may take a break from this application to study some other things tomorrow and to just step away from it.
+
+**Link to work:** https://github.com/v-morris/employee-db-redo
