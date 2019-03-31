@@ -117,3 +117,13 @@ Alright today was pretty hard for me! Had some time near end of night to try out
 I did not realize the search function for this database would cause issues throughout the entire application. I had to make a completely separate else statement for the mapping of the employees. I'm trying to make some more if/else statements for the functions, but I just didn't realize how much of an issue this could potentially cause through my other functions. I may take a break from this application to study some other things tomorrow and to just step away from it.
 
 **Link to work:** https://github.com/v-morris/employee-db-redo
+
+### Day 16: March 30, 2019
+
+**Today's Progress**: 
+Correct CRUD for when an employee is being searched. So now all screens update searching or no searching!
+
+**Thoughts:** 
+I realized I was pretty tired yesterday and I was actually able to fix my issues tonight pretty quickly. I'm super happy about that and also realizing that I AM GETTING BETTER!!! I did this project last month for a job interview and after doing it I realized how rought my knowledge was with React, and I went into it with 0 Ruby/Ruby on Rails knowledge. I want to add in a few more functions to this application, then I will move onto another project. I'm happy with my progress on it at the moment. Still want to fix some of the styling, but overall I accomplished what I set out to learn and I made this 100% better than the first time I attempted it. I may also look into PostgreSQL with this as well, as that is what the original project asked for. I did this one with SQLite. 
+
+**Link to work:** https://github.com/v-morris/employee-db-redo
