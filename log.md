@@ -33,3 +33,15 @@
 **Sources:**  Advanced JavaScript Concepts - Andrei Neagoie Udemy Course
 
 **Links:** [Unique Character Checker](https://repl.it/@digidarkdev/Unique-Characters "Unique Character Checker")
+
+
+### Day 2: August 29, 2019 
+
+**Today's Progress**: Unfortunately I had a migraine most of today so I didn't get much in after applying to jobs... but I was able to practice an algorithm from Cracking the Coding Interview. I learned about using Sets in JavaScript, which I did not know existed. I did tried two different functions to check if a string has unique characters. One way was with a Set, the other I tried character codes like I had learned in Java. I only did it was ASCII and not Unicode.
+
+
+**Thoughts:** Wishing I made more progress today but I'm happy I learned about Sets. It will be very useful in the future. I also enjoy finding multiple ways to solve one problem. Tomorrow I'd like to get back to the Advanced JavaScript Concepts course, and try another algorithm.
+
+**Sources:**  https://flaviocopes.com/javascript-data-structures-set/
+
+**Links:** [Unique Character Checker](https://repl.it/@digidarkdev/Unique-Characters "Unique Character Checker")
