@@ -45,3 +45,22 @@
 **Sources:**  https://flaviocopes.com/javascript-data-structures-set/
 
 **Links:** [Unique Character Checker](https://repl.it/@digidarkdev/Unique-Characters "Unique Character Checker")
+
+### Day 3: August 30, 2019 
+
+**Today's Progress**: I continued Andrei Neagoie's Advanced JavaScript Concepts Udemy course. Topics covered today include -
+* Execution Context - JS engine creates global() execution context. Access to Global object(window) and "this" keyword
+* Lexical Environment - every time we create an execution context, a new lexical environment is created.
+* Hoisting - only var and function declaration get hoisted
+* Function Invocation - access to "this" keyword and "arguments" keyword (which is an object)
+* Array.from() turns arguments into an array. Can also use rest parameters
+* Variable environments
+* Scope Chain - each execution context has a connection to its parent
+
+I also began another algorithm from Cracking the Coding Interview. I'm learning about create a Map to check for permutations of a string. Have not solved it yet and need to look into comparing Maps. I did solve it one way, which involved sorting the string and comparing, but it is not the most optimized way.
+
+**Thoughts:** Some of the topics covered today were review because I do know a lot of this stuff, and I use a lot of these concepts. I think I just forget what a lot of it is actually called! I didn't get to spend a lot of time on the algorithm today but I started learning about how to use Maps, which seems comparible to something I'd see in Java. So I'll be exploring this more tomorrow.
+
+**Sources:**  https://flaviocopes.com/javascript-data-structures-map/  https://javascript.info/map-set
+
+**Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
