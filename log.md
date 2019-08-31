@@ -61,6 +61,8 @@ I also began another algorithm from Cracking the Coding Interview. I'm learning 
 
 **Thoughts:** Some of the topics covered today were review because I do know a lot of this stuff, and I use a lot of these concepts. I think I just forget what a lot of it is actually called! I didn't get to spend a lot of time on the algorithm today but I started learning about how to use Maps, which seems comparible to something I'd see in Java. So I'll be exploring this more tomorrow.
 
-**Sources:**  https://flaviocopes.com/javascript-data-structures-map/  https://javascript.info/map-set
+**Sources:**  
+https://flaviocopes.com/javascript-data-structures-map/  
+https://javascript.info/map-set
 
 **Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
