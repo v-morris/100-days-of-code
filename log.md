@@ -57,7 +57,7 @@
 * Variable environments
 * Scope Chain - each execution context has a connection to its parent
 
-I also began another algorithm from Cracking the Coding Interview. I'm learning about create a Map to check for permutations of a string. Have not solved it yet and need to look into comparing Maps. I did solve it one way, which involved sorting the string and comparing, but it is not the most optimized way.
+I also began another algorithm from Cracking the Coding Interview. I'm learning about creating a Map to check for permutations of a string. Have not solved it yet and need to look into comparing Maps. I did solve it one way, which involved sorting the string and comparing, but it is not the most optimized way.
 
 **Thoughts:** Some of the topics covered today were review because I do know a lot of this stuff, and I use a lot of these concepts. I think I just forget what a lot of it is actually called! I didn't get to spend a lot of time on the algorithm today but I started learning about how to use Maps, which seems comparible to something I'd see in Java. So I'll be exploring this more tomorrow.
 
