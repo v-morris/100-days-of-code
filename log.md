@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 5: September 1, 2019 
+
+**Today's Progress**: Finished Section 3 of the Advanced JavaScript Concepts Udemy course. A little review, but learned some things a lot more in depth. Todays topics included -
+* Leakage of global variables - 'use strict' prevents this from happening
+* Function Scope vs Block Scope - var is function scoped, Example: can be accessed outside of if/for loop, let and const are block scoped and can only be accessed inside a block of code
+* Variable collision and why it is important to not pollute the global environment with variables. Other script files will overwrite each other if there are variables of the same name.
+* IIFE - Immediately Invoked Function Expression, help to prevent variable collision by creating a local environment.
+* 'this' keyword - the object that the function is a property of, gives methods access to their object and also can execute same code for multiple objects. The 'this' keyword is dynamically scoped rather than lexically scope (this is fixed by either using an arrow function or .bind(this). You can also create a reference to 'this' by creating a variable in the obj you are referencing.
+* call(), apply(), bind() - call and apply both borrow methods from objects, bind stores a method to be used later
+* Function currying - uses bind() to give partial parameters (first parameter) to other functions
+* context vs scope
+
+**Thoughts:** These are topics I've covered a little in the past but they never sunk in completely. I'm taking a lot of notes to hopefully help me remember better. It's already a lot easier to understand this now with a year of coding under my belt. When I tried to understand these topics previously, it was more difficult to understand them without much knowledge. So outside of taking notes, I think just having more overall knowledge is helping it sink in more easily.
+
+**Sources:**  
+https://www.geeksforgeeks.org/map-has-in-javascript/ 
+https://2ality.com/2015/01/es6-maps-sets.html
+
+**Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
+
 
 ### Day 4: August 31, 2019 
 
@@ -8,10 +28,7 @@
 **Thoughts:** I feel like I'm pretty close to a good solution, but I might have used too many for loops and also feel like I didn't follow the DRY principle as well as I should have.. I will check for solutions tomorrow and compare to what I got. But I believe my solution works from what I can tell. It's late though so I will double check after a night of rest! 
 
 **Sources:**  
-https://www.geeksforgeeks.org/map-has-in-javascript/ 
-https://2ality.com/2015/01/es6-maps-sets.html
-
-**Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
+Advanced JavaScript Concepts - Andrei Neagoie Udemy Course
 
 
 ### Day 3: August 30, 2019 
