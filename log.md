@@ -24,7 +24,7 @@
 **Thoughts:** I feel like I'm pretty close to a good solution, but I might have used too many for loops and also feel like I didn't follow the DRY principle as well as I should have.. I will check for solutions tomorrow and compare to what I got. But I believe my solution works from what I can tell. It's late though so I will double check after a night of rest! 
 
 **Sources:**  
-https://www.geeksforgeeks.org/map-has-in-javascript/ 
+https://www.geeksforgeeks.org/map-has-in-javascript/<br/>
 https://2ality.com/2015/01/es6-maps-sets.html
 
 **Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
