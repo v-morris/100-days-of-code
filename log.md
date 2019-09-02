@@ -14,11 +14,7 @@
 
 **Thoughts:** These are topics I've covered a little in the past but they never sunk in completely. I'm taking a lot of notes to hopefully help me remember better. It's already a lot easier to understand this now with a year of coding under my belt. When I tried to understand these topics previously, it was more difficult to understand them without much knowledge. So outside of taking notes, I think just having more overall knowledge is helping it sink in more easily.
 
-**Sources:**  
-https://www.geeksforgeeks.org/map-has-in-javascript/ 
-https://2ality.com/2015/01/es6-maps-sets.html
-
-**Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
+**Sources:**  Advanced JavaScript Concepts - Andrei Neagoie Udemy Course
 
 
 ### Day 4: August 31, 2019 
@@ -28,7 +24,10 @@ https://2ality.com/2015/01/es6-maps-sets.html
 **Thoughts:** I feel like I'm pretty close to a good solution, but I might have used too many for loops and also feel like I didn't follow the DRY principle as well as I should have.. I will check for solutions tomorrow and compare to what I got. But I believe my solution works from what I can tell. It's late though so I will double check after a night of rest! 
 
 **Sources:**  
-Advanced JavaScript Concepts - Andrei Neagoie Udemy Course
+https://www.geeksforgeeks.org/map-has-in-javascript/ 
+https://2ality.com/2015/01/es6-maps-sets.html
+
+**Links:** [Check Permutations](https://repl.it/@digidarkdev/Check-Permutation "Check Permutations")
 
 
 ### Day 3: August 30, 2019 
