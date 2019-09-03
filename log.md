@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 6: September 2, 2019 
+
+**Today's Progress**: Finished Section 4 of the Advanced JavaScript Concepts Udemy Course. Topics included - 
+* Primitive vs Non-Primitive Data types in JS
+* Undefined - absence of a definition, Null - absence of a value
+* Array.isArray() to check for array type because typeof will only show you that an array is an object
+* Pass by Reference vs Pass by Value - objects are pass by reference, pointing to a specific place in memory. Primitive data types are pass by value and contain their own seperate places in memory, rather than point to one location.
+* How to clone an object or array so prevent any issues caused by pass by reference
+* Object.assign(), spread operator for shallow clones (one layer)
+* JSON.parse(JSON.stringify()) for deep cloning -- but this can cause performance issues if the object is large
+* Type Coersion when using a double equals sign
+* Object.is for comparison
+* Static typing in JS using FLow, Elm, ReasonML, or TypeScript
+
+**Thoughts:** A little review again, but refreshed a lot of knowledge on pass by reference vs pass by value and how to deep clone. I looked up some info and it seems like that can get pretty complex. I'm excited to be on to Section 5 because it contains a lot of completely new knowledge, so I'm looking forward to learning it all. I'd also like to maybe start including some TypeScript in my work and maybe run through an Egghead course to get a quick idea of it. I've used it a tiny bit in the past, but mostly forget it. I've noticed a lot of employers want TypeScript, so it's on my list to review. I may work on an algorithm tonight as well, or at least review the Check Permutations algorithm.
+
+**Sources:**  Advanced JavaScript Concepts - Andrei Neagoie Udemy Course
+
 ### Day 5: September 1, 2019 
 
 **Today's Progress**: Finished Section 3 of the Advanced JavaScript Concepts Udemy course. A little review, but learned some things a lot more in depth. Todays topics included -
