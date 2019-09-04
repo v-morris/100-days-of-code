@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: September 3, 2019 
+
+**Today's Progress**: Watched 2 Egghead videos about TypeScript. I did a bit of practice with it, just exploring types/using DOM elements. Learned about how to use interfaces/classes as well. 
+
+**Thoughts:** I'm really excited to work with TypeScript more! It seems like a great way to practice structuring my code better. It reminds me a lot of Java. It's going to be a difficult transition, because I remember how much I struggled trying to go from JS to Java in the beginning! Took me a minute to get used to using types. But I love the structure. It's more code, but I really think it helps your code come together better in the end.
+
+**Sources:**  Egghead.io
+
 ### Day 6: September 2, 2019 
 
 **Today's Progress**: Finished Section 4 of the Advanced JavaScript Concepts Udemy Course. Topics included - 
