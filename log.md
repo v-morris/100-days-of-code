@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 8: September 4, 2019 
+
+**Today's Progress**: Watched a little bit of the Udemy course I'm working through.. Didn't do much actual coding, BUT I did work on the presentation of my Github. I still need to go through it more. I'm working on getting it in more order, deleting projects that I had to miscellaneously upload for my bootcamp that aren't totally complete, and just getting it tidied up. Also went through and began documenting them more with ReadMe files. Tomorrow hopefully I can complete this task and get it all in order.
+
+**Thoughts:** Realizing that even days of not actual coding, are still completely necessary to keep my files/tech stuff straight!
+
 ### Day 7: September 3, 2019 
 
 **Today's Progress**: Watched 2 Egghead videos about TypeScript. I did a bit of practice with it, just exploring types/using DOM elements. Learned about how to use interfaces/classes as well. 
