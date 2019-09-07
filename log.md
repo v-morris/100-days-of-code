@@ -1,11 +1,28 @@
 # 100 Days Of Code - Log
 
 
+### Day 10: September 6, 2019 
+
+**Today's Progress**: Today I had the interview! I'm not sure how I did and there were a lot of terms about Java that I've heard but did not know more in depth. For whatever reason I thought you had to initialize the garbage collector in Java. I knew about garbage collection for memory management but was not sure how it worked at all in Java. I also did not know the difference between a TreeMap and a TreeSet. I was asked about Vectors and ArrayList and which one was synchronized. I knew about both uses of them but I wasn't sure which was synchronized, and guessed Vector because I was pretty sure that ArrayLists were not. I was also asked about SOAP vs REST. I know REST API but have never worked with SOAP. I had done some research on it in the past but it completely slipped my memory what the differences were. So all the questions that I was unsure of/thought I missed, I did research on them after the interview.
+
+**Thoughts:** I have a lot to learn!!! Java is a very in depth language and I'd love to learn everything I can about it. I still am struggling bouncing back and forth between Java and JavaScript. I've been focusing more on JS because it's what I started with and I feel like I have a better chance to get a job with what I have more knowledge in. But either way, even though bouncing back and forth has been a struggle, I've learned SO MUCH in the process. So we will see where this goes!
+
+
+### Day 9: September 5, 2019 
+
+**Today's Progress**: I spent the whole day trying to prep for an interview. I've been heavily focusing on JavaScript and have barely touched Java in a minute... but a random interview came up for Java that I did not expect! So I went through a TON of Angie Jones' Java Tutorial... It helped significantly to refresh the syntax and I even picked up a ton of stuff I didn't know. I squished as much into my brain as I could.
+
+**Thoughts:** After watching a huge chunk of that course, I feel so much more comfortable about what exactly Object Oriented Programming is and how it works. I FINALLY understand Polymorphism, at least at a beginner level. So I'm super excited! 
+
+**Sources:** https://testautomationu.applitools.com/java-programming-course/
+
+
 ### Day 8: September 4, 2019 
 
 **Today's Progress**: Watched a little bit of the Udemy course I'm working through.. Didn't do much actual coding, BUT I did work on the presentation of my Github. I still need to go through it more. I'm working on getting it in more order, deleting projects that I had to miscellaneously upload for my bootcamp that aren't totally complete, and just getting it tidied up. Also went through and began documenting them more with ReadMe files. Tomorrow hopefully I can complete this task and get it all in order.
 
 **Thoughts:** Realizing that even days of not actual coding, are still completely necessary to keep my files/tech stuff straight!
+
 
 ### Day 7: September 3, 2019 
 
@@ -14,6 +31,7 @@
 **Thoughts:** I'm really excited to work with TypeScript more! It seems like a great way to practice structuring my code better. It reminds me a lot of Java. It's going to be a difficult transition, because I remember how much I struggled trying to go from JS to Java in the beginning! Took me a minute to get used to using types. But I love the structure. It's more code, but I really think it helps your code come together better in the end.
 
 **Sources:**  Egghead.io
+
 
 ### Day 6: September 2, 2019 
 
@@ -32,6 +50,7 @@
 **Thoughts:** A little review again, but refreshed a lot of knowledge on pass by reference vs pass by value and how to deep clone. I looked up some info and it seems like that can get pretty complex. I'm excited to be on to Section 5 because it contains a lot of completely new knowledge, so I'm looking forward to learning it all. I'd also like to maybe start including some TypeScript in my work and maybe run through an Egghead course to get a quick idea of it. I've used it a tiny bit in the past, but mostly forget it. I've noticed a lot of employers want TypeScript, so it's on my list to review. I may work on an algorithm tonight as well, or at least review the Check Permutations algorithm.
 
 **Sources:**  Advanced JavaScript Concepts - Andrei Neagoie Udemy Course
+
 
 ### Day 5: September 1, 2019 
 
