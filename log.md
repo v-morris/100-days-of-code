@@ -1,6 +1,34 @@
 # 100 Days Of Code - Log
 
 
+### Day 14: September 10, 2019 
+
+**Today's Progress**: Again another busy day and not a ton of coding! Scheduled all of my checkup Dr appts this week and needed to take my doggo to the vet, so busy busy! I messed around with Vue for a little bit this morning after I woke up. I got 2 emails/calls today for 2 more interviews this week! One is my 4th interview with a company, the other is my first. I'm extremely excited for both! Both are Java roles, so I spent some time tonight reviewing a little Java. Tomorrow will be a full Java review day!
+
+**Thoughts:** JAVA JAVA JAVA JAVA JAVA. I need to get better at Java! I'm letting imposter syndrome get to me a bit, but I definitely know I am capable of learning what I need to learn for both of these roles! It's just a matter of getting me exposed to it an in the role! It's been really difficult bouncing back and forth between Java and JavaScript. My interview the other day was for JS. So I've been through a good amount of interviews, but I'm trying to keep my brain straight because I'm going JS interview, Java interview, JS interview, Java interview. I have to keep switching gears! It's definitely keeping me on my toes and constantly learning for sure.
+
+
+### Day 13: September 9, 2019 
+
+**Today's Progress**: Interview today! Also took a little bit to expose myself to Vue.js because the company that I interviewded for uses Vue.
+
+**Thoughts:** Vue seems overall pretty easy to grasp. Didn't get to spend much time on it, but enough to see a few of the differences from React.
+
+
+### Day 12: September 8, 2019 
+
+**Today's Progress**: Today was a busy day. Not much coding, but solved 2 challenges on HackerRank and fixed the errors in my ToDo app!
+
+**Thoughts:** Not many thoughts today... I noticed I solved the challenges I did on HackerRank fairly quick so I felt pretty good about that. It shows that my thought process is getting better! Interview tomorrow!
+
+
+### Day 11: September 7, 2019 
+
+**Today's Progress**: I remade my very first ToDo List application that I had made in Java to compare my understanding of when I started vs now. It is much more dynamic. Still more work to be done on it, but feeling happy with how far I've come!
+
+**Thoughts:** Overall completely happy with how far my thought process has come/developed. I still have a long way to go, but Java is definitely helping me approach programs more thoughtfully.
+
+
 ### Day 10: September 6, 2019 
 
 **Today's Progress**: Today I had the interview! I'm not sure how I did and there were a lot of terms about Java that I've heard but did not know more in depth. For whatever reason I thought you had to initialize the garbage collector in Java. I knew about garbage collection for memory management but was not sure how it worked at all in Java. I also did not know the difference between a TreeMap and a TreeSet. I was asked about Vectors and ArrayList and which one was synchronized. I knew about both uses of them but I wasn't sure which was synchronized, and guessed Vector because I was pretty sure that ArrayLists were not. I was also asked about SOAP vs REST. I know REST API but have never worked with SOAP. I had done some research on it in the past but it completely slipped my memory what the differences were. So all the questions that I was unsure of/thought I missed, I did research on them after the interview.
