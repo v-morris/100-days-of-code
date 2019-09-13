@@ -1,6 +1,20 @@
 # 100 Days Of Code - Log
 
 
+### Day 16: September 12, 2019 
+
+**Today's Progress**: Today I had an interview for the Java role that I am extremely excited about! I would absolutely love to work for this company because I know that the possibilities would be endless and that I would learn so much! I'm definitely up for the challenge!!! I also finished my remake of my To-Do application. I'm pretty happy with the outcome and feel like it's a lot more dynamic this time around. I'm sure there could be some changes done but I'm going to continue on to the next project. I achieved what I wanted to with it, which was to take a more Object Oriented approach and break it into smaller pieces!
+
+**Thoughts:** I'll be spending my weekend in Java. Reviewing is bringing a lot of stuff back to my brain, but I've just been so heavily focused on JavaScript concepts. So tomorrow I will continue with my review and code some more! I'm going to start reviewing backend concepts because I think a lot of it has vanished from my brain and I need to find it again!
+
+
+### Day 15: September 11, 2019 
+
+**Today's Progress**: I spent the day reviewing Java terms/definitions and just reviewing for interviews! Nothing too crazy! Lots of flash cards and trying to research/understand specific concepts.
+
+**Thoughts:** I really need to review a lot of Java backend. I haven't touched it in a few weeks and I know I'm rusty for sure.
+
+
 ### Day 14: September 10, 2019 
 
 **Today's Progress**: Again another busy day and not a ton of coding! Scheduled all of my checkup Dr appts this week and needed to take my doggo to the vet, so busy busy! I messed around with Vue for a little bit this morning after I woke up. I got 2 emails/calls today for 2 more interviews this week! One is my 4th interview with a company, the other is my first. I'm extremely excited for both! Both are Java roles, so I spent some time tonight reviewing a little Java. Tomorrow will be a full Java review day!
