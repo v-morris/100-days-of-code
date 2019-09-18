@@ -1,6 +1,13 @@
 # 100 Days Of Code - Log
 
 
+### Day 17: September 17, 2019 
+
+**Today's Progress**: I worked in Spring Boot and continued refreshing on MVC and working through basic CRUD operations. I went through part of my bootcamp's curriculum again to get back into the groove of using Spring Boot. I'm refreshing on HTTP requests/responses. I was able to debug and find an error in a piece of curriculum I was reading, so I was super happy to be able to figure that out on my own. It took me a bit to figure it out but I got it :) 
+
+**Thoughts:** I have been terrible at keeping this updated the last few days because I took a little mental break over the weekend, but I did code yesterday. Figured I'd just get this going again now and pick up where I left off! Spring Boot has so much that I have forgotten but it will be fun getting back in to it. Once I remember everything I'd like to build a small application. I've also been working through a lot of interviews so that took up a significant portion of my time last week. Hopefully by the end of this week I will be back up to speed with what I previously learned in Spring Boot and I can start working on my own app. I'd definitely like to look into a note taking software of some sort tomorrow. I did really really well the week I was handwriting my notes and a lot of knowledge stuck, and I feel like that will be extremely useful right now, but I want to find a digital software and see if that works just as well for me.
+
+
 ### Day 16: September 12, 2019 
 
 **Today's Progress**: Today I had an interview for the Java role that I am extremely excited about! I would absolutely love to work for this company because I know that the possibilities would be endless and that I would learn so much! I'm definitely up for the challenge!!! I also finished my remake of my To-Do application. I'm pretty happy with the outcome and feel like it's a lot more dynamic this time around. I'm sure there could be some changes done but I'm going to continue on to the next project. I achieved what I wanted to with it, which was to take a more Object Oriented approach and break it into smaller pieces!
