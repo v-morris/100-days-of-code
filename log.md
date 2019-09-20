@@ -1,6 +1,18 @@
 # 100 Days Of Code - Log
 
 
+### Day 19: September 19, 2019 
+
+**Today's Progress**: Connected a MySQL database to a Spring Boot application. Used the Sakila database to display a list of actor/actress names & info on a view made with Thymeleaf. Learned about the applications.properties file and how to set it up to connect to the DB and to keep the data from being overwritten using the spring.jpa.hibernate.ddl-auto=none
+
+**Thoughts:** I've learned all of this in the past, but it was so quickly as part of my internship that none of it fully stuck. So going back through again has been great, but a challenege. It all makes sense, but the backend has always seemed more challenging to me than the frontend. I know once I spend more time on it, I will become more comfortable.
+
+
+### Day 18: September 18, 2019 
+
+**Today's Progress**: Worked with GET/POST CRUD operations in Spring Boot. Used Thymeleaf to create different views to post to a form where you put in a beginning, middle, and end of a story, and the POST sends you to the full story page where all the pieces are connected.
+
+
 ### Day 17: September 17, 2019 
 
 **Today's Progress**: I worked in Spring Boot and continued refreshing on MVC and working through basic CRUD operations. I went through part of my bootcamp's curriculum again to get back into the groove of using Spring Boot. I'm refreshing on HTTP requests/responses. I was able to debug and find an error in a piece of curriculum I was reading, so I was super happy to be able to figure that out on my own. It took me a bit to figure it out but I got it :) 
