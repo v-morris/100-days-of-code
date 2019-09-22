@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log
 
 
+### Day 20: September 21, 2019 
+
+**Today's Progress**: I went through a FreeCodeCamp tutorial today to work on building a REST API with Spring Boot, MySQL, and JPA.  I worked through all of the various annotations used. A quick list of what I re-learned ---
+* @GetMapping, @PostMapping, @PutMapping, @DeleteMapping
+* Using the orElseThrow() method and creating a custom exception
+* Using the JpaRepository package to use the built in methods such as .findById(), .save(), .delete()
+* Using the @Table annotation to create/name your table for MySQL
+* Connecting this all to a MySQL database
+
+
+**Thoughts:** Now that I'm completely refreshed on this information I might start working on a back-end of my own. I never completed the remake of my purchase order application, and I'd really like to build the backend using Spring Boot to get in some practice. I'm trying to slow down my learning a little bit. I feel like I'm constantly trying to get in as much information as I can, rather than taking time to fully understand each concept. So I'm taking a step back, enjoying the process, and also trying to slowly introduce other things that I enjoy in life as well. I went swimming and got some sun the last 2 days, and I'm overall feeling like my brain is much better at holding information right now. So I need to remember to just slow down sometimes and break things down into smaller pieces!
+
+**Sources:** [How to build a Rest API with Spring Boot using MySQL and JPA](https://www.freecodecamp.org/news/how-to-build-a-rest-api-with-spring-boot-using-mysql-and-jpa-f931e348734b/)
+
+
 ### Day 19: September 19, 2019 
 
 **Today's Progress**: Connected a MySQL database to a Spring Boot application. Used the Sakila database to display a list of actor/actress names & info on a view made with Thymeleaf. Learned about the applications.properties file and how to set it up to connect to the DB and to keep the data from being overwritten using the spring.jpa.hibernate.ddl-auto=none
