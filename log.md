@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
 
+
+### Day 21: September 22, 2019 
+
+**Today's Progress**: I started to build a backend using Spring Boot for the Purchase Order Remake I had started in the past. I want to keep this simple and not focus on item quantities, but just storing items in a database, and using those items to create an order. I created two table layouts, one for Products and one for Purchase Orders. I created the models and repositories, but am struggling with the one to many relationship.
+
+**Thoughts:** I'm trying to understand how to build a one to many relationship with MySQL using JPA. I know what I need, which would be many products for one purchase order, but I'm not sure if I'm setting it up properly. I'm going to have to read up more on it, because right now MySQL is only letting me store 1 product id for each purchase order and I think it has something to do with my PurchaseOrderRepository.
+
+**Sources:** [JPA and Hibernate One To Many Relationship Mapping Example with Spring Boot and MySQL](https://hellokoding.com/jpa-one-to-many-relationship-mapping-example-with-spring-boot-maven-and-mysql/)
+
+
 ### Day 20: September 21, 2019 
 
 **Today's Progress**: I went through a FreeCodeCamp tutorial today to work on building a REST API with Spring Boot, MySQL, and JPA.  I worked through all of the various annotations used. A quick list of what I re-learned ---
@@ -9,7 +19,6 @@
 * Using the JpaRepository package to use the built in methods such as .findById(), .save(), .delete()
 * Using the @Table annotation to create/name your table for MySQL
 * Connecting this all to a MySQL database
-
 
 **Thoughts:** Now that I'm completely refreshed on this information I might start working on a back-end of my own. I never completed the remake of my purchase order application, and I'd really like to build the backend using Spring Boot to get in some practice. I'm trying to slow down my learning a little bit. I feel like I'm constantly trying to get in as much information as I can, rather than taking time to fully understand each concept. So I'm taking a step back, enjoying the process, and also trying to slowly introduce other things that I enjoy in life as well. I went swimming and got some sun the last 2 days, and I'm overall feeling like my brain is much better at holding information right now. So I need to remember to just slow down sometimes and break things down into smaller pieces!
 
